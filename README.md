@@ -25,20 +25,10 @@ This tool is intended to create an easy and accessible way for candidates in sma
 ### ***Shape Data***
 
 > #### District-Level
-> - [Lower chamber districts](ftp://ftp2.census.gov/geo/tiger/TIGER2019/SLDL/)
-> - [Upper chamber districts](ftp://ftp2.census.gov/geo/tiger/TIGER2019/SLDU/)
+> - [Lower chamber districts, 2019](ftp://ftp2.census.gov/geo/tiger/TIGER2019/SLDL/)
+> - [Upper chamber districts, 2019](ftp://ftp2.census.gov/geo/tiger/TIGER2019/SLDU/)
 
 > #### Precinct-Level
 > - [Precinct-level shape data, multiple years and states](https://github.com/nvkelso/election-geodata)
 > - [Precinct-level shape data, multiple years and states](https://github.com/mggg-states)
-
-
-Shapes:
-Precinct shapefiles
-
-Resources
-Working with census & election data
-Census redistricting data program
-MIT Election Lab
-Downloading precinct shape files from census
  
