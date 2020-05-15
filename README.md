@@ -1,9 +1,9 @@
 # district-analysis-automation-tool
 Tool for creating personalized district analyses for down-ballot candidates.
-***
+
 ## Purpose
 This tool is intended to create an easy and accessible way for candidates in small-scale racse to reach data that may typically be unfeasible to try to use, such as census information or voting records.
-***
+
 ## Data Sources
 
 ### ***Historical Election Data***
