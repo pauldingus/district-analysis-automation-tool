@@ -14,6 +14,7 @@ library(ggtext)
 library(leaflet)
 library(mapview)
 library(lazyeval)
+library(htmlwidgets)
 
 shp <- st_read('../data/clean/co_sd_district_1.shp')
 # dbf <- read.dbf('../data/clean/co_sd_district_1.dbf')
@@ -81,6 +82,10 @@ create_interactive_viz <- function(shp = shp,
     )
   
   m
+  
+  #create html file of the map
+  filepath = sprintf("%s.html", unname(getlongname[var_string]))
+  saveWidget(m, file=filepath)
   
 }
 
